@@ -1,0 +1,10 @@
+City,Product_Name_Max_Sales,Date_Max_Sales,MaximumOverallSales,Product_Name_Min_Sales,Date_Min_Sales,MinimumOverallSales
+Atlanta,Headphones,2019-02-22,1487.37,Batteries,2019-02-27,12.63
+Austin,Headphones,2019-02-21,1156.44,Batteries,2019-02-23,3.78
+Boston,Headphones,2019-02-21,1611.49,Batteries,2019-02-18,23.98
+Dallas,Headphones,2019-02-18,1168.25,Batteries,2019-02-25,17.69
+LosAngeles,Headphones,2019-02-27,2015.3,Batteries,2019-02-23,50.45
+NewYorkCity,Headphones,2019-02-16,1595.6599999999999,Batteries,2019-02-26,24.8
+Portland,Headphones,2019-02-26,1227.28,Batteries,2019-02-17,6.73
+SanFrancisco,Headphones,2019-02-18,3282.0499999999997,Batteries,2019-02-19,57.62
+Seattle,Headphones,2019-02-17,1095.37,Batteries,2019-02-26,11.34
